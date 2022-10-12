@@ -1,0 +1,1 @@
+echo "ini baris pertama";
